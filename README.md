@@ -116,7 +116,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Excel
 
-#### Product Dashboard
+#### **📌Product Dashboard**
 
 **`Files:`** [Excel - Product Dashboard](https://github.com/LamVKiet/Dashboard)
 
