@@ -1,4 +1,4 @@
-# Data Analysis Portfolio
+# 📊 Data Analysis Portfolio
 ## About
 
 Hi, I'm Kiệt — a final-year student pursuing a Bachelor's degree in Data Science, with a strong foundation in analytical thinking developed throughout my academic journey. My background has equipped me with solid skills in working with complex datasets, identifying patterns, and applying statistical techniques to uncover meaningful insights.
