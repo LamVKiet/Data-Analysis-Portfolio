@@ -13,19 +13,19 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#portfolio-projects)
   - Python
-    - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
-    - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
+    - [Customer Segmentation with RFM: Two Approaches Using Quintiles and K-Means Clustering](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#-customer-segmentation-with-rfm-two-approaches-using-quintiles-and-k-means-clustering)
+    - [Data-Driven Digital Marketing Strategy for Sanest: From Market Insights to Multichannel Execution](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#-data-driven-digital-marketing-strategy-for-sanest-from-market-insights-to-multichannel-execution)
+    - [Sentiment Analysis Application](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#sentiment-analysis-application)
   - SQL
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
-    - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
-  - R
-    - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
-  - Excel / PowerBI
-
+    - [Warehouse Management System – Electronics Distribution Company](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#sentiment-analysis-application)
+  - PowerBI
+    - [Store Sales Dashboard](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#store-sales-dashboard)
+  - Excel
+    - [Product Dashboard](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#product-dashboard)
+  
 - [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Certificates](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#certificates)
 - [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -78,7 +78,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **`Link:`** [Sentiment Analysis Application.ipynb](https://github.com/LamVKiet/SENTIMENT-ANALYSIS-APPLICATION)
 
-**`Goal`**: Perform sentiment analysis by classifying reviews with a rating above 3 as "Positive" and below 3 as "Negative".
+**`Goal:`** Perform sentiment analysis by classifying reviews with a rating above 3 as "Positive" and below 3 as "Negative".
 
 **`Description:`** A web-based sentiment analysis tool using Python and Flask to classify restaurant reviews. It compares Naive Bayes, SVM, and LSTM models to select the best performer for analyzing user-input text and displaying sentiment results with visuals.
 
@@ -95,7 +95,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **`Link:`** [Warehouse Management System – Electronics Distribution Company](https://github.com/LamVKiet/WAREHOUSE-MANAGEMENT-SYSTEM/tree/main)
 
-**`Goal`**: To build a relational database system that efficiently manages warehouse operations and ensures data integrity.
+**`Goal:`** To build a relational database system that efficiently manages warehouse operations and ensures data integrity.
 
 **`Description:`** This database system is designed to support the warehouse operations of an electronics distribution company. It manages the processes of importing and exporting goods, as well as tracking suppliers, customers, inventory, employees, and job roles.
 
@@ -118,10 +118,17 @@ In this section I will list data analytics projects briefly describing the techn
 
 #### Product Dashboard
 
-**`Files`**: [Excel - Product Dashboard](https://github.com/LamVKiet/Dashboard)
+**`Files:`** [Excel - Product Dashboard](https://github.com/LamVKiet/Dashboard)
 
-**`Description`**: This dashboard visualizes sales data, showcasing the quantity of products sold by category and product ID. It includes insights into sales trends across different time periods (yearly, monthly, daily), as well as the buying and selling prices for each category and product.
+**`Description:`** This dashboard visualizes sales data, showcasing the quantity of products sold by category and product ID. It includes insights into sales trends across different time periods (yearly, monthly, daily), as well as the buying and selling prices for each category and product.
+
+## Education
+
+University of Economics Ho Chi Minh City: Bachelor’s Degree, Data Science, 2022 – 2025
+
 
 ## Contact
-I’m happy to connect regarding career opportunities, collaborations, or feedback. 📧 l.vikiet21@gmail.com - [Linkedin](http://linkedin.com/in/kiet-lam-312052310)
+I’m happy to connect regarding career opportunities, collaborations, or feedback. 
+- **Email** l.vikiet21@gmail.com 
+- **Linkedin**: [@kietlam211](http://linkedin.com/in/kiet-lam-312052310)
 
