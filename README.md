@@ -13,20 +13,19 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## Table of Contents
 - [About](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#about)
-- [Portfolio Projects](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#portfolio-projects)
+- [Portfolio Projects](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
   - Python
-    - [Customer Segmentation with RFM: Two Approaches Using Quintiles and K-Means Clustering](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#-customer-segmentation-with-rfm-two-approaches-using-quintiles-and-k-means-clustering)
-    - [Data-Driven Digital Marketing Strategy for Sanest: From Market Insights to Multichannel Execution](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#-data-driven-digital-marketing-strategy-for-sanest-from-market-insights-to-multichannel-execution)
-    - [Sentiment Analysis Application](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#sentiment-analysis-application)
+    - [Customer Segmentation with RFM: Two Approaches Using Quintiles and K-Means Clustering](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#-customer-segmentation-with-rfm-two-approaches-using-quintiles-and-k-means-clustering)
+    - [Data-Driven Digital Marketing Strategy for Sanest: From Market Insights to Multichannel Execution](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#-data-driven-digital-marketing-strategy-for-sanest-from-market-insights-to-multichannel-execution)
+    - [Sentiment Analysis Application](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#sentiment-analysis-application)
   - SQL
-    - [Warehouse Management System – Electronics Distribution Company](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#sentiment-analysis-application)
-  - PowerBI
-    - [Store Sales Dashboard](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#store-sales-dashboard)
+    - [Warehouse Management System – Electronics Distribution Company](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#warehouse-management-system--electronics-distribution-company)
+  - Power BI
+    - [Store Sales Dashboard](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#store-sales-dashboard)
   - Excel
-    - [Product Dashboard](https://github.com/LamVKiet/Data-Analysis-Portfolio/edit/main/README.md#product-dashboard)
-  
-- [Education](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#education)  
-- [Contact](https://github.com/tiannaparris/Data-Analysis-Portfolio/blob/main/README.md#contacts)
+    - [Product Dashboard](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#product-dashboard)
+- [Education](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#education)
+- [Contact](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#contact)
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
