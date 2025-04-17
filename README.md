@@ -1,11 +1,11 @@
 # 📊 Data Analysis Portfolio
 ## About
 
-Hi, I'm Kiệt — a final-year student pursuing a Bachelor's degree in Data Science, with a strong foundation in analytical thinking developed throughout my academic journey. My background has equipped me with solid skills in working with complex datasets, identifying patterns, and applying statistical techniques to uncover meaningful insights.
+Hi, I’m Kiệt - a final-year student pursuing a Bachelor’s degree in Data Science. Throughout my academic journey, I have cultivated strong analytical thinking skills and developed proficiency in SQL, Python, and Power BI. I have hands-on experience with DAX and Power Query for data manipulation and visualization, as well as expertise in data modeling, and diagnostics.
 
-Throughout my studies, I’ve built hands-on experience in data analysis, visualization, and data management, and developed a passion for using data to solve real-world problems. I'm now seeking an entry-level opportunity where I can apply and continue to grow these skills in a professional setting.
+My background includes applying predictive analytics using machine learning techniques such as regression, clustering, and classification. I have gained extensive experience in various types of analytics: descriptive, diagnostic, predictive, and prescriptive, employing both quantitative and qualitative methods.
 
-In my free time, I enjoy exploring new data analysis tools and techniques, and I am always looking for opportunities to expand my knowledge and skills. Whether working on a team or independently, I am driven by the thrill of discovering new insights and the satisfaction of using data to solve complex problems.
+I am particularly passionate about storytelling with data-transforming complex datasets into actionable business insights that drive data-driven decision-making. I enjoy exploring new data analysis tools and techniques, always seeking opportunities to expand my knowledge and enhance my skills. Whether working independently or collaboratively, I am motivated by excitement of uncovering valuable insights and using data to solve complex business challenges
 
 My CV in [pdf].
 
