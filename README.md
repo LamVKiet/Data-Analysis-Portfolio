@@ -151,5 +151,5 @@ University of Economics Ho Chi Minh City: Bachelor’s Degree, Data Science, 202
 ## Contact
 I’m happy to connect regarding career opportunities, collaborations, or feedback. 
 - **Email** l.vikiet21@gmail.com 
-- **Linkedin**: [@kietlam211](http://linkedin.com/in/kiet-lam-312052310)
+- **Linkedin**: [@kietlam](http://linkedin.com/in/kiet-lam-312052310)
 
