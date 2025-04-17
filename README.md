@@ -20,6 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Sentiment Analysis Application](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#sentiment-analysis-application)
   - SQL
     - [Warehouse Management System – Electronics Distribution Company](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#warehouse-management-system--electronics-distribution-company)
+    - [Profitability Diagnostics & Loss Root Cause Analysis Using Advanced SQL](https://github.com/LamVKiet/Profitability-Diagnostics-Loss-Root-Cause-Analysis-Using-Advanced-SQL)
   - Power BI
     - [Store Sales Dashboard](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#store-sales-dashboard)
   - Excel
@@ -105,6 +106,27 @@ In this section I will list data analytics projects briefly describing the techn
 
 - Enabled easy querying of supplier, customer, and employee data to support decision-making and facilitate accurate reporting.
 
+#### **📌Profitability Diagnostics & Loss Root Cause Analysis Using Advanced SQL**
+
+**`Link:`** [Profitability Diagnostics & Loss Root Cause Analysis Using Advanced SQL](https://github.com/LamVKiet/Profitability-Diagnostics-Loss-Root-Cause-Analysis-Using-Advanced-SQL)
+
+**`Goal:`** Use SQL to analyze profitability, identify loss drivers, and provide actionable insights to enhance business performance.
+
+**`Description:`** This project utilizes SQL for root cause analysis, allowing the identification of underperforming products, high-risk customers, and unprofitable regions through drill-down queries. By leveraging advanced SQL techniques such as Subqueries, Window Functions, CTEs, Grouping & Aggregation, CASE Statements, and Stored Procedures, it offers a data-driven approach to enhance decision-making and drive profitability improvements.
+
+**`Results:`** 
+
+This project delivers actionable insights to enhance business performance through advanced data analysis. Key focus areas include:
+
+- Product Portfolio Optimization – Identifies low-performing products and highlights high-margin opportunities to improve profitability and streamline inventory.
+
+- Customer Segmentation Insights – Analyzes customer groups to refine segmentation, enhance targeting and increase retention.
+
+- Geographic Profitability Focus – Pinpoints underperforming regions to guide localized strategies in logistics, marketing, and resource allocation for better regional performance.
+
+- Discount Strategy Optimization – Evaluates the effectiveness of discounting practices to reduce revenue leakage and improve promotion outcomes.
+
+- Loss Driver Identification – Detects key loss areas across products, customers, and regions, enabling timely, data-driven corrective actions to boost profitability.
 ### PowerBI
 
 #### **📌Store Sales Dashboard**
