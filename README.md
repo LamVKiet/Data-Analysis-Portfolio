@@ -5,7 +5,7 @@ Hi, I’m Kiệt - a final-year student pursuing a Bachelor’s degree in Data S
 
 My background includes applying predictive analytics using machine learning techniques such as regression, clustering, and classification. I have gained extensive experience in various types of analytics: descriptive, diagnostic, predictive, and prescriptive, employing both quantitative and qualitative methods.
 
-I am particularly passionate about storytelling with data-transforming complex datasets into actionable business insights that drive data-driven decision-making. I enjoy exploring new data analysis tools and techniques, always seeking opportunities to expand my knowledge and enhance my skills. Whether working independently or collaboratively, I am motivated by excitement of uncovering valuable insights and using data to solve complex business challenges
+I am particularly passionate about storytelling with data-transforming complex datasets into actionable business insights that drive data-driven decision-making. I enjoy exploring new data analysis tools and techniques, always seeking opportunities to expand my knowledge and enhance my skills. Whether working independently or collaboratively, I am motivated by excitement of uncovering valuable insights and using data to solve complex business challenges.
 
 My CV in [pdf].
 
