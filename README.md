@@ -118,7 +118,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 This project delivers actionable insights to enhance business performance through advanced data analysis. Key focus areas include:
 
-- Product Portfolio Optimization – Identifies low-performing products and highlights high-margin opportunities to improve profitability and streamline inventory.
+- Product Portfolio Optimization – Identifies low-performing products to reallocate resources toward better-performing, more profitable items, helping improve overall profitability and streamline inventory.
 
 - Customer Segmentation Insights – Analyzes customer groups to refine segmentation, enhance targeting and increase retention.
 
