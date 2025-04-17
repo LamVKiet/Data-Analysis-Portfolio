@@ -20,7 +20,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Sentiment Analysis Application](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#sentiment-analysis-application)
   - SQL
     - [Warehouse Management System – Electronics Distribution Company](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#warehouse-management-system--electronics-distribution-company)
-    - [Profitability Diagnostics & Loss Root Cause Analysis Using Advanced SQL](https://github.com/LamVKiet/Profitability-Diagnostics-Loss-Root-Cause-Analysis-Using-Advanced-SQL)
+    - [Profitability Diagnostics & Loss Root Cause Analysis Using Advanced SQL](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#profitability-diagnostics--loss-root-cause-analysis-using-advanced-sql)
   - Power BI
     - [Store Sales Dashboard](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#store-sales-dashboard)
   - Excel
