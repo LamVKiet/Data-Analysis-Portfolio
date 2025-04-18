@@ -7,7 +7,7 @@ My background includes applying predictive analytics using machine learning tech
 
 I am particularly passionate about storytelling with data-transforming complex datasets into actionable business insights that drive data-driven decision-making. I enjoy exploring new data analysis tools and techniques, always seeking opportunities to expand my knowledge and enhance my skills. Whether working independently or collaboratively, I am motivated by excitement of uncovering valuable insights and using data to solve complex business challenges.
 
-My CV in [pdf].
+My CV in [pdf](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/CV_DataAnalyst.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
