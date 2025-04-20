@@ -14,9 +14,10 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of Contents
 - [About](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#about)
 - [Portfolio Projects](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#portfolio-projects)
+  - Analytics
+    - [Data-Driven Digital Marketing Strategy for Sanest: From Market Insights to Multichannel Execution](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#-data-driven-digital-marketing-strategy-for-sanest-from-market-insights-to-multichannel-execution)
   - Python
     - [Customer Segmentation with RFM: Two Approaches Using Quintiles and K-Means Clustering](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#-customer-segmentation-with-rfm-two-approaches-using-quintiles-and-k-means-clustering)
-    - [Data-Driven Digital Marketing Strategy for Sanest: From Market Insights to Multichannel Execution](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#-data-driven-digital-marketing-strategy-for-sanest-from-market-insights-to-multichannel-execution)
     - [Sentiment Analysis Application](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#sentiment-analysis-application)
   - SQL
     - [Warehouse Management System – Electronics Distribution Company](https://github.com/LamVKiet/Data-Analysis-Portfolio/blob/main/README.md#warehouse-management-system--electronics-distribution-company)
